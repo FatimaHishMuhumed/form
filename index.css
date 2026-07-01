@@ -1,0 +1,47 @@
+.continer{
+    background-color: rgb(245, 245, 245);
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 70vh;
+    border-radius: 15px;
+    box-shadow: 1px 1px 7px black;
+    text-align: center;
+    
+
+}
+.h{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 5vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    margin-top: 30px;
+
+
+
+}
+.login{
+    background-color: rgb(63, 63, 255);
+    text-align: center;
+    width: 80%;
+    height: 7vh;
+    border-radius: 9px;
+    color: white;
+    
+    font-size: 20px;
+
+}
+.check{
+    font-weight: bold;
+}
+
+.T{
+    font-weight: bold;
+    font-size: 40px;
+}
+.user{
+    position: relative;
+    right: 20px;
+}
